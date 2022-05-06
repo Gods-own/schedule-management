@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.sign-form {
+    background-color: #fff;
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding: 23px 20px;
+}
+
+.sign-form h2 {
+    text-align: center;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-top: 18px;
+}
+
+.form-control {
+    height: 40px;
+    padding: 5px 8px;
+    font-size: 0.9rem;
+    margin-top: 8px;
+    outline: none;
+}
+
+.form-btn-div {
+    text-align: center;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.form-btn-div button {
+    font-size: 0.9rem;
+    padding: 8.5px 100px;
+    background: #8E34F5;
+    color: #fff;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+
+.message {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+    padding: 8px 6px;
+    text-align: center;
+}
